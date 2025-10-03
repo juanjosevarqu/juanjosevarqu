@@ -6,10 +6,12 @@
 
 ## About Me
 
-👨🏽‍💻 &nbsp;Passionate about technology and mobile development.  
-⚙️ &nbsp;I enjoy every stage of building a product, from coding to user experience.  
-🔭 &nbsp;I'm a curious person who enjoys learning and sharing knowledge with the community.  
-🌱 &nbsp;Happy to connect and collaborate, feel free to reach out.
+
+👨🏽‍💻 &nbsp;**Passionate about technology and mobile development.**   
+⚙️ &nbsp;**I enjoy every stage of building a product, from coding to user experience.**   
+🔭 &nbsp;**I'm a curious person who enjoys learning and sharing knowledge with the community.**   
+🌱 &nbsp;**Happy to connect and collaborate, feel free to reach out.**
+
 
 ## 🛠 Tech Stack
 
