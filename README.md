@@ -7,10 +7,10 @@
 ## 👨🏽‍💻 About Me
 
 
-💡 **Passionate about technology and mobile development.**  
-🚀 **I enjoy every stage of building a product, from coding to user experience.**  
-🧩 **I'm a curious person who enjoys learning and sharing knowledge with the community.**  
-🤝 **Happy to connect and collaborate — feel free to reach out.**
+💡 **Driven by technology and mobile innovation.**  
+🚀 **I enjoy every stage of product development — from coding to user experience.**  
+🧩 **Constantly learning, experimenting, and sharing knowledge with the community.**  
+🤝 **Open to collaboration and new challenges.**
 
 
 ## 🛠 Tech Stack
@@ -28,6 +28,7 @@
 ![Google Play](https://img.shields.io/badge/-Google_Play-05122A?style=flat&logo=googlePlay&logoColor=5beb78)&nbsp;
 
 ## 💬 Let’s connect  
+**Available to discuss ideas or projects.**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/juanjosevarqu/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Juan_Jose_Vargas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn"/></a><a href="mailto:juanjosevarqu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-juanjosevarqu-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="gmail"/></a>
